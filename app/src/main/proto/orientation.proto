@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+package com.github.fengdai.protos;
+
+enum Orientation {
+    EXPENSE = 1;
+    INCOME = 2;
+}
